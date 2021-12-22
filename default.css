@@ -69,6 +69,7 @@ h6 { font-size: 16px;}
 .main-container{
 	width: 1200px;
 	margin:0 auto;
+	margin-bottom: 50px;
 }
 
 .greeting-wrapper{
