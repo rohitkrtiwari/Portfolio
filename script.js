@@ -4,7 +4,7 @@ console.log("It's Working")
 let theme = localStorage.getItem('theme')
 
 if(theme == null){
-	setTheme('light')
+	setTheme('purple')
 }else{
 	setTheme(theme)
 }
@@ -21,8 +21,8 @@ for (var i=0; themeDots.length > i; i++){
 }
 
 function setTheme(mode){
-	if(mode == "light"){
-		document.getElementById('theme-style').href = 'default.css'
+	if(mode == "white"){
+		document.getElementById('theme-style').href = 'light.css'
 	}
 
 	if(mode == "blue"){
