@@ -39,7 +39,8 @@ p, li, span, label, input, textarea{
 
 a{
 	text-decoration: none;
-	color: #17a2b8;
+    color: #b27cc9;
+    font-weight: 900;
 }
 
 ul{
@@ -280,6 +281,10 @@ h6 { font-size: 16px;}
 	gap: 20px;
 	justify-content: center;
 	padding-bottom: 50px;
+}
+
+.post-bottom{
+	display: flex;
 }
 
 .post{
