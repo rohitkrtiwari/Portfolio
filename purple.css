@@ -150,11 +150,9 @@ h6 { font-size: 16px;}
 #profile_pic{
 	display: block;
 	margin: 0 auto;
-
 	height: 230px;
-	width: 200px;
+	width: 259px;
 	object-fit: cover;
-	border: 2px solid var(--borderColor);
 }
 
 .theme-options-wrapper{
