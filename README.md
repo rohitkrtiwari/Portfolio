@@ -1,6 +1,10 @@
 # Portfolio
 
-Live : <a href="https://rohitkrtiwari.github.io/Portfolio/" target="_blank">Portfolio</a>
+Exploring my world through a digital lens - my portfolio website
+
+Live : <a href="https://rohitkrtiwari.github.io/Portfolio/" target="_blank">(have_a_look!)</a>
+
+<hr>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rohitkrtiwari.github.io/Portfolio)
