@@ -124,7 +124,7 @@ h6 { font-size: 16px;}
 	box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
 
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 42% 58%;
 	grid-template-areas: 
 		'nav-wrapper nav-wrapper'
 		'left-column right-column'
@@ -182,7 +182,7 @@ h6 { font-size: 16px;}
 #profile_pic{
 	display: block;
 	margin: 0 auto;
-	height: 230px;
+	/* height: 230px; */
 	width: 259px;
 	object-fit: cover;
 }
@@ -228,22 +228,22 @@ h6 { font-size: 16px;}
 .right-column{
 	grid-area: right-column;
 	display: grid;
-	align-content: center;	
+	/* align-content: center;	 */
 
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 50px;
 }
 
 #preview-shadow{
 	background-color: var(--previewShadow);
-	width: 300px;
-	height: 180px;
+	width: 530px;
+	height: 285px;
 	padding-left: 30px; 
 	padding-top: 30px; 
 }
 
 #preview{
-	width: 300px;
+	width: 530px;
 	border: 1.5px solid #17a2b8;
 	background-color: var(--previewBg);
 	padding: 15px;
